@@ -1,14 +1,4 @@
-/*!
- * SlickQuiz jQuery Plugin
- * http://github.com/jewlofthelotus/SlickQuiz
- *
- * @updated October 25, 2014
- * @version 1.5.20
- *
- * @author Julie Cameron - http://www.juliecameron.com
- * @copyright (c) 2013 Quicken Loans - http://www.quickenloans.com
- * @license MIT
- */
+
 
 (function($){
     $.slickQuiz = function(element, options) {
@@ -17,7 +7,7 @@
             _element = '#' + $element.attr('id'),
 
             defaults = {
-                checkAnswerText:  'Check My Answer!',
+                checkAnswerText:  'Submit!',
                 nextQuestionText: 'Next &raquo;',
                 backButtonText: '',
                 completeQuizText: '',
