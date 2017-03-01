@@ -20,8 +20,8 @@ var quizJSON = {
                 {"option": "midlam mock answer",       "correct": true},
                 {"option": "midlam mock answer",          "correct": false} // no comma here
             ],
-            "correct": "<p><span>That's right!</span>DRA = Digital Reference Architecture</p>",
-            "incorrect": "<p><span>Incorrect</span>" // no comma here
+            "correct": "<p><span>Thanks!</span></p>",
+            "incorrect": "<p><span>Thanks!</span>" // no comma here
         },
         { 
             "q": "The new designs best feature was",
@@ -31,8 +31,8 @@ var quizJSON = {
                 {"option": "midlam mock answer",       "correct": true},
                 {"option": "midlam mock answer",          "correct": false} // no comma here
             ],
-            "correct": "<p><span>That's right!</span>DRA = Digital Reference Architecture</p>",
-            "incorrect": "<p><span>Incorrect</span>" // no comma here
+            "correct": "<p><span>Thanks!</span></p>",
+            "incorrect": "<p><span>Thanks!</span>" // no comma here
         },
            { 
              "q": "The new designs best feature was",
@@ -42,8 +42,8 @@ var quizJSON = {
                 {"option": "midlam mock answer",       "correct": true},
                 {"option": "midlam mock answer",          "correct": false} // no comma here
             ],
-            "correct": "<p><span>That's right!</span>DRA = Digital Reference Architecture</p>",
-            "incorrect": "<p><span>Incorrect</span>" // no comma here
+            "correct": "<p><span>Thanks!</span></p>",
+            "incorrect": "<p><span>Thanks!</span>" // no comma here
         },
          { 
              "q": "The new designs best feature was",
@@ -53,8 +53,8 @@ var quizJSON = {
                 {"option": "midlam mock answer",       "correct": true},
                 {"option": "midlam mock answer",          "correct": false} // no comma here
             ],
-            "correct": "<p><span>That's right!</span>DRA = Digital Reference Architecture</p>",
-            "incorrect": "<p><span>Incorrect</span>" // no comma here
+            "correct": "<p><span>Thanks</span></p>",
+            "incorrect": "<p><span>Thanks</span>" // no comma here
         },
     ]
 };
